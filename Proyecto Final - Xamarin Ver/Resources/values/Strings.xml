@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+  <string name="apiKey" templateMergeStrategy="preserve" transatable="false">AIzaSyBMKNAWvyJ-sNZRKYrBE3tuy1O64z0_PHw</string>
+    <string name="app_name">CityCare - Buscador de Incidencias</string>
+</resources>

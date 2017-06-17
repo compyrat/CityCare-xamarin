@@ -1,0 +1,58 @@
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\bin\Debug\Proyecto Final - Xamarin Ver.dll
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\bin\Debug\Proyecto Final - Xamarin Ver.pdb
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\bin\Debug\Proyecto_Final___Xamarin_Ver.Proyecto_Final___Xamarin_Ver.apk
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\bin\Debug\Proyecto_Final___Xamarin_Ver.Proyecto_Final___Xamarin_Ver-Signed.apk
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\Proyecto Final - Xamarin Ver.dll
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\Proyecto Final - Xamarin Ver.pdb
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\android\bin\Proyecto_Final___Xamarin_Ver.Proyecto_Final___Xamarin_Ver.apk
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\res\layout\showlist.xml
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\res\layout\viewuserdetailed.xml
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\res\layout\sendnotification.xml
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\res\layout\viewincidences.xml
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\res\layout\viewincidencedetailed.xml
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\res\layout\maplayout.xml
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\res\layout\main.xml
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\res\values\strings.xml
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\res\drawable\icon.png
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\R.cs.flag
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\uploadflags.txt
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\res\layout\mapfragment.xml
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\proyecto Final - Xamarin Ver.dll
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\proyecto Final - Xamarin Ver.pdb
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\bin\Debug\proyecto Final - Xamarin Ver.dll
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\bin\Debug\proyecto Final - Xamarin Ver.pdb
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\bin\Debug\proyecto_Final___Xamarin_Ver.Proyecto_Final___Xamarin_Ver.apk
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\bin\Debug\proyecto_Final___Xamarin_Ver.Proyecto_Final___Xamarin_Ver-Signed.apk
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\android\bin\proyecto_Final___Xamarin_Ver.Proyecto_Final___Xamarin_Ver.apk
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\res\layout\showlist.xml
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\res\layout\viewuserdetailed.xml
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\res\layout\sendnotification.xml
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\res\layout\viewincidences.xml
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\res\layout\viewincidencedetailed.xml
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\res\layout\maplayout.xml
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\res\layout\mapfragment.xml
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\res\layout\main.xml
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\res\values\strings.xml
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\res\drawable\icon.png
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\R.cs.flag
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\uploadflags.txt
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\res\layout\custommarker.xml
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\Proyecto Final - Xamarin Ver.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\proyecto Final - Xamarin Ver.dll.mdb
+C:\Users\Eric\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\bin\Debug\proyecto Final - Xamarin Ver.dll.mdb
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\res\layout\custommarker.xml
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\Proyecto Final - Xamarin Ver.csprojResolveAssemblyReference.cache
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\proyecto Final - Xamarin Ver.dll.mdb
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\bin\Debug\proyecto Final - Xamarin Ver.dll.mdb

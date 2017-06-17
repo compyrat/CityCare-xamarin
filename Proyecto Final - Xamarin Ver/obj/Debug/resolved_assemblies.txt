@@ -1,0 +1,12 @@
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\android\assets\proyecto Final - Xamarin Ver.dll
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\android\assets\Mono.Android.dll
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\android\assets\mscorlib.dll
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\android\assets\Newtonsoft.Json.dll
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\android\assets\System.Core.dll
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\android\assets\System.dll
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\android\assets\System.Net.Http.dll
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\android\assets\Xamarin.GooglePlayServices.Base.dll
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\android\assets\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\android\assets\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\ericcabmun\Desktop\Proyecto Final - Xamarin Ver\Proyecto Final - Xamarin Ver\obj\Debug\android\assets\System.Runtime.Serialization.dll
